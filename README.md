@@ -65,4 +65,14 @@ Jupyter is an ipython notebook where you can run blocks of code and see results 
 
 `> jupyter notebook`
 
-A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
+A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project. 
+
+#**Test Results**
+##Test 1
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jd7BHJXRA1I
+" target="_blank"><img src="http://img.youtube.com/vi/jd7BHJXRA1I/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+##Test 2
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XuhWAVJrge0
+" target="_blank"><img src="http://img.youtube.com/vi/XuhWAVJrge0/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
