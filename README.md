@@ -71,8 +71,8 @@ A browser window will appear showing the contents of the current directory.  Cli
 ##Test 1
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=jd7BHJXRA1I
 " target="_blank"><img src="http://img.youtube.com/vi/jd7BHJXRA1I/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="960" height="540" border="10" /></a>
 ##Test 2
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XuhWAVJrge0
 " target="_blank"><img src="http://img.youtube.com/vi/XuhWAVJrge0/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="960" height="540" border="10" /></a>
